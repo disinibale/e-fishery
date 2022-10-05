@@ -1,0 +1,22 @@
+{
+  "name": "efishery-cli",
+  "version": "0.0.1",
+  "description": "CLI App for e-fishery Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disinibale/e-fishery.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Muhamad Iqbal Nurzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disinibale/e-fishery/issues"
+  },
+  "homepage": "https://github.com/disinibale/e-fishery#readme"
+}
